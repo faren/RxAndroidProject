@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxAndroidProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_field">Username</string>
+    <string name="email_field">Email</string>
+    <string name="button_reg_rx">Register</string>
+</resources>
